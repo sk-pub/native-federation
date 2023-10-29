@@ -19,6 +19,8 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@module-federation/vite": "^0.2.8",
+    "@softarc/native-federation-esbuild": "^2.0.4",
     "typescript": "^5.0.2",
     "vite": "^4.4.5"
   }
